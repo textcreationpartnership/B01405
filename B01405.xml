@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the pretended refutation of Dr. Olyphant's defence</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01405</idno>
+            <idno type="STC">Wing A3435</idno>
+            <idno type="STC">ESTC R203639</idno>
+            <idno type="EEBO-CITATION">52212060</idno>
+            <idno type="OCLC">ocm 52212060</idno>
+            <idno type="VID">175404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175404)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2732:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the pretended refutation of Dr. Olyphant's defence</title>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.W. for Thomas Carruthers, and sold at his shop in the Parliament Closs,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>M.DC.XC.IX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Discusses the use of vomiting and purging for the cure of fevers.</note>
+                  <note>Probably written in response to the anonymous pamphlet "A refutation of Dr Olyphant's defence" also printed in Edinburgh in 1699.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oliphant, Charles, d. 1719.</term>
+               <term>Refutuation of Dr. Olyphant's defence of his short discourse of the usefulness of vomiting in fevers.</term>
+               <term>Fever --  Treatment --  17th century --  Early works to 1800.</term>
+               <term>Vomiting --  Treatment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175404:1"/>
+            <pb facs="tcp:175404:1" rendition="simple:additions"/>
+            <p>AN ANSWER To the PRETENDED Refutation OF D<hi rend="sup">r.</hi> 
+               <hi>Olyphant</hi>'s DEFENCE</p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by <hi>J. W.</hi> for <hi>Thomas Carruthers,</hi> and Sold at his Shop in the Parliament Cloſs, M.DC.XC.IX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="response">
+            <pb facs="tcp:175404:2"/>
+            <pb n="3" facs="tcp:175404:2"/>
+            <head>An Anſwer <hi>to the pretended</hi> Refutation, &amp;c.</head>
+            <p>ONE might very juſtly imagine, that this <hi>Refutation</hi> had been rather de<g ref="char:EOLhyphen"/>ſign'd for that of the <hi>Melius Inqui<g ref="char:EOLhyphen"/>rendum,</hi> than of Dr. <hi>O</hi>'s <hi>Defence,</hi> if it was not for the Title-Page: And I appeal to any Man that had any Confidence in the <hi>Refu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r</hi>'s Ingenuity, if the Matter of Fact as it is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow ſet down in the Refutation, be not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ite different from what he imagined it was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the <hi>Melius Inquirendum.</hi> The Apotheca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and the File in his Shop before appealed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as Witneſſes, to teſtifie the Patient's be<g ref="char:EOLhyphen"/>ing ſeveral times Vomited, are now declin<g ref="char:EOLhyphen"/>ed; the File he confeſſeth proves no ſuch thing, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Apothecary, ſays he, <hi>cannot purge himſelf of partial Counſel,</hi> which is calling in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſtion the Honeſty of that Gentleman, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hom all of his Acquaintance know to be of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch ſteddy and firm Principles; that even his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn Intereſt when at Stake, or that of his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eareſt Relations, could never byaſs him to do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny thing he thought unjuſt or diſingenuous. But it is pleaſant to hear how he Declines the Patient, <hi>becauſe,</hi> ſayes he <hi>(if we may believe himſelf)</hi> a very mannerly Suppoſition by
+<pb n="4" facs="tcp:175404:3"/>the by, <hi>He remembers nothing that paſſed for Four or Five days together after the taking the Vomit.</hi> Why, what if he did not; does that prove he remembred nothing before he took the Vomit? Now I hope, the Refuter doth not pretend he Vomited the Patient after the Dr. had done it. It was unlucky indeed the Patient ſhould have remembered the Dr's Vomit, and the great Benefit he found by it (which he as juſtly as Generouſly, own'd on all Occaſions, and frequently to the Dr. himſelf) and in the mean time have forgot that the Ordinary had given him ſeverals be<g ref="char:EOLhyphen"/>fore. However, I do aſſure the Refuter, had the Dr. known any thing of his giving warm Water or Whey for Vomits, he would have been far from denying them place a<g ref="char:EOLhyphen"/>mong his other <hi>Achillean Cures</hi> and <hi>Pen-gun-Artillery.</hi> And here I muſt take notice of a moſt admirable turn of <hi>Gigantick Wit</hi> in the Refutation; the Dr. in his Defence is ſpeak<g ref="char:EOLhyphen"/>ing of the <hi>Anſwerer</hi>'s Remedies as no better Artillery to attack the Diſeaſe, than Pen-Guns would be to take a Fort; and here the Refut<g ref="char:EOLhyphen"/>er moſt waggiſhly turns the Cannon on the Dr. by turning the Body of the Patient into the Cannon: <hi>I do confeſs indeed,</hi> ſayes he, <hi>they are but Pen-Guns in Reſpect of the Dr's Artillery, the Diſcharging of which had in ſtead of taking the Fort, almoſt ſplit the Can<g ref="char:EOLhyphen"/>non,
+<pb n="5" facs="tcp:175404:3"/>which was no great mark of a very good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unner.</hi> Now, had the Ordinary by an o<g ref="char:EOLhyphen"/>vercharge of <hi>Milk</hi> and Sugar, burſt his Cli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er-pipe, and at the ſame time taken the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ort, I am certain the Dr. would have been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r from upbraiding him with his ſmall Skill <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Gunnery.</p>
+            <p>I ſhall ſay nothing to the Refuter's moſt Chriſtian way of defaming a Man ſafely, by making his Words have a double meaning, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he does alſo the Repreſentation of the Matter of Fact, eſpecially after his own fair Confeſſion in the Refutation, where he flat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y acknowledgeth he had anſwered both <hi>un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſtly</hi> and Irregularly. <hi>And if,</hi> ſays he, <hi>in any thing I have Tranſgreſs'd, my Adverſary is to blame, who attacked me both unjuſtly and ir<g ref="char:EOLhyphen"/>regularly; and every man muſt defend as he is attacked.</hi>
+            </p>
+            <p>I am now come to theſe few Anſwers given to the Dr's Authorities in the Refuta<g ref="char:EOLhyphen"/>tion, and ſhall begin with what is ſaid to that of <hi>Fernel,</hi> which I find the Refuter looks on as the moſt Material thing he has to ſay. He alledgeth that in the firſt Quotation brought by the Dr. from <hi>Fernel,</hi> that Au<g ref="char:EOLhyphen"/>thor ſpeaks only of intermitting Fevers. Now to cut off all further Debate, I ſhall grant it be true; but in the mean time, if the Rea<g ref="char:EOLhyphen"/>ſons that moved <hi>Fernel</hi> to Vomit in inter<g ref="char:EOLhyphen"/>mitting
+<pb n="6" facs="tcp:175404:4"/>Fevers, can be uſed for doing the ſame in continued ones when attended with Vomiting and overflowing of Gall, is it not the ſame thing for the Dr's purpoſe. And that it is, ſo is evident by the Quotation which I ſhall again inſert <hi>Quum per acceſſiones mul<g ref="char:EOLhyphen"/>toe bilis ſpontanea vacuatio contingit, febris ſi<g ref="char:EOLhyphen"/>ne Medicamento integre ſolvi poteſt. At quum ea aut nulla aut parcior exiſtit medicatio adhi<g ref="char:EOLhyphen"/>benda, ne neglecta Febris ſpeciem mutet &amp; de<g ref="char:EOLhyphen"/>terior vel prolixior evadat. When,</hi> ſays he, <hi>there happens by turns a great Evacuation of Bile if its own accord, the Fever may end with<g ref="char:EOLhyphen"/>out any Medicine; but when that is either none at all or too little, Medicaments are to be giv<g ref="char:EOLhyphen"/>en, leſt the Fever by being neglected, change its Species, and become worſe and of longer con<g ref="char:EOLhyphen"/>tinuance.</hi> And afterwards, <hi>Quum enim pre<g ref="char:EOLhyphen"/>cipue impura ſit prima corporis Regio, in qua &amp; humor noxius fluctuat, ſtatim initio ejus nonnihil tempeſtive expurgandum eſt, preſer<g ref="char:EOLhyphen"/>tim ſi vel oris amaror, vel Cordis dolor, vel Nauſea vel in appetentia vel ſuffocatio acrius urget. For ſeeing the Stomach and inteſtins</hi> (which is the <hi>Prima Corporis Regio</hi>) <hi>in which the Noxious Humour fluctuats, are moſt unclean, ſome of it is to be timeouſly evacuated in the beginning, eſpecially if there be bitter<g ref="char:EOLhyphen"/>neſs in the Mouth, Oppreſſion of the Heart, or ſqueamiſhneſs or want of Appetite or ſuffocati<g ref="char:EOLhyphen"/>on.</hi>
+               <pb n="7" facs="tcp:175404:4"/>Now, I would gladly know if any Man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a ſhow the leaſt Reaſon, why all that may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be applyed to Continued Fevers that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve Remiſſions, and are attended with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dounding Choller, as are theſe Fevers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Dr. firſt diſcourſed of. And in ef<g ref="char:EOLhyphen"/>fect the Affinity between Agues and moſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f our Fevers is ſo great, that not only Vo<g ref="char:EOLhyphen"/>miting, but the <hi>Kinkina</hi> or <hi>Jeſuit</hi>'s <hi>Bark,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e true Specifick Cure of Agues has been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery ſuccesfully introduced into the Cure of them.</p>
+            <p>He comes next to <hi>Celſus,</hi> whom the Dr. own'd both in his firſt diſcourſe and defence <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o have uſed warm Water for a Vo<g ref="char:EOLhyphen"/>mit, and gives a good Reaſon for it; but to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive that now for one in any caſe, except <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erhaps after a ſlight Surfeit, is truely to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat the practice of Medicine in Ridicule. And I wonder if the Refuter would uſe the <hi>Kinkina</hi> in an Ague, or the <hi>Ipeca Coanha</hi> in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Dyſentery,</hi> becauſe <hi>Celſus</hi> knew nothing of them.</p>
+            <p>After that he paſſeth over thoſe pat Quo<g ref="char:EOLhyphen"/>tations of <hi>Willis, Sylvius, Etmuller, Micha<g ref="char:EOLhyphen"/>el Hartman,</hi> and Dr. <hi>Tournefort</hi>'s Teſtimo<g ref="char:EOLhyphen"/>ny, that it was the Practice of the beſt Phy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icians in <hi>France,</hi> not only to give <hi>Antimoni<g ref="char:EOLhyphen"/>al</hi> Vomits, and the other moſt <hi>Draſtick</hi> Me<g ref="char:EOLhyphen"/>dicines; but to mix Vomiting and Purging
+<pb n="8" facs="tcp:175404:5"/>Medicines together, all which the Dr. had Riveted in his Defence; until he comes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Sydenham.</hi> Neither doth he Anſwer the Quo<g ref="char:EOLhyphen"/>tations brought from him, but tells us from the <hi>Schedula Monitoria,</hi> that he uſed Blooding &amp; Purging <hi>in Febribus quamplurimarum ſpecierum, in very many ſorts of Fevers,</hi> &amp; not <hi>in moſt part of Fevers,</hi> as the Refuter Tranſlates it; which is very true, but theſe were properly Symp<g ref="char:EOLhyphen"/>tomatical Fevers of the <hi>Inflammatory</hi> kind, and quite different from theſe the Dr. ſpeaks of, which are ten to one the moſt ordinary here, and even <hi>Sydenham</hi> had practiſed a long time before he had ſeen any other, as he tells himſelf in the Preface to theſe Fevers he Cures by Vomiting, <hi>Quo quidem tempore,</hi> ſays he, <hi>nondum mihi innotuerat, aliam aliquam Febris ſpeciem in rerum natura inveniri. At which time</hi> (which was a good time after he had Practiſed Phyſick) <hi>it was not known to me, there was any other ſort of Fever to be found in Nature.</hi> And how much a Kin thoſe Fevers were to Agues he tells in the ſame Preface in theſe Words. <hi>Dicta itaque Febris continua Intermittentium quaſi Compendium quoddam, &amp; e contra ſinguli earum Paroxyſmi Compendium hujuſce m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i videbantur; atque adeo diſcrimen in hoc maxime verſari, quod continuae conceptam ſemel efferveſcentiam</hi> Sunechoos <hi>eodemque ſem<g ref="char:EOLhyphen"/>per tenore perficerent; intermittentes autem
+<pb n="9" facs="tcp:175404:5"/>partitis vicibus ac diverſis temporibus eadem <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ungerentur. Therefore,</hi> ſays he, <hi>the fore<g ref="char:EOLhyphen"/>ſaid continued Fever ſeemed to me as a ſort of compend of the Intermitting Ones, and on the other hand, each Fit of thoſe ſeemed a Compend of this; ſo that the Difference lay moſtly in this, that the continued Fevers did hold out in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me Tenor, and did perfect without Intermiſſi<g ref="char:EOLhyphen"/>on the Efferveſcence they had begun; whereas the Intermitting Fevers did the ſame at diffe<g ref="char:EOLhyphen"/>rent times and by Intervals.</hi> And that this is poſitively true in moſt Fevers we have, and moſt remarkably ſo in theſe we have had this Seaſon, every Man that hath accuratly ob<g ref="char:EOLhyphen"/>ſerved will eaſily be convinced.</p>
+            <p>At laſt he comes to Dr. <hi>P</hi>'s <hi>Diſſertation of the Cure of Fevers by Evacuation,</hi> and tells us, that <hi>there Sweating is propoſed as the beſt and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eadieſt Evacuation for Curing all Fevers, with<g ref="char:EOLhyphen"/>out any reſpect to the Seat of the Morbifick Mat<g ref="char:EOLhyphen"/>ter.</hi> I Anſwer, that Dr. <hi>P.</hi> did not Deſign that Diſcourſe for the Uſe of any who did not know that nothing could be Evacuated by Sweating which did not immediatly come from the Blood, ſo that the Morbifick Matter muſt of neceſſity be Seated in the Blood and Blood-Veſſels, before it could be brought a<g ref="char:EOLhyphen"/>way by Sweating, and not in the Stomach as Dr. <hi>O.</hi> ſuppoſed.</p>
+            <pb n="10" facs="tcp:175404:6"/>
+            <p>I have now done with my Anſwer to that Refutation of the Defence, and leave it to be judged by any Man that is Impartial, whe<g ref="char:EOLhyphen"/>ther or not it deſerves that Title. I am quite Tired with the Subject, and ſhall conclude all with a Letter the Dr. received from a <hi>Phy<g ref="char:EOLhyphen"/>ſician</hi> at <hi>London</hi> of his Acquaintance, concern<g ref="char:EOLhyphen"/>ing his <hi>Short Diſcourſe,</hi> which I hope the Read<g ref="char:EOLhyphen"/>er will neither find Impertinent nor Tedious, it being written by one whoſe Wit and Good Humor are equal to his Learning and Inge<g ref="char:EOLhyphen"/>nuity.</p>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:175404:6"/>
+            <opener>
+               <salute>DEAR SIR.</salute>
+            </opener>
+            <p>I Thank you for the Preſent of your ſmall Treatiſe about Vomiting in Fevers, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut at the ſame time, I approve of your Reaſons, you muſt give me leave to condemn your Conduct: I know you begin to ſtorm at this; But have a little Patience. There was a Phyſician of this Town, perhaps the moſt Famous in his time, being called to his Patient, complaining (it may be) of an Oppreſſion at his Stomach; he would very ſafely and cautiouſly order him a Gentle De<g ref="char:EOLhyphen"/>coction of <hi>Carduus,</hi> ſometimes hot Water; I don't know but he would allow now and then fat <hi>Mutton Broth</hi> too. The Patient was Vomited, and the Doctor could juſtifie himſelf that he had not omitted that ne<g ref="char:EOLhyphen"/>ceſſary evacuation; this was his conſtant Practice. Being Chid by his Collegues, who well knew he neglected <hi>Antimony,</hi> not out of Ignorance or Fear, he would Roguiſh<g ref="char:EOLhyphen"/>ly tell them, Come, come Gentlemen, that might cure my Patient, but it would kill the Diſtemper, and I ſhould have leſs Money in my Pocket. A pretty Buſineſs indeed, a Rich Citizen overgorges himſelf, which by Management may be improv'd into a good ſubſtantial Fever, worth at leaſt Twenty Guineas; and you would have me nip the
+<pb n="12" facs="tcp:175404:7"/>Plant in the Bud, have a Guinea for my Pains, and loſe the Reputation of a ſafe Pra<g ref="char:EOLhyphen"/>ctitioner to boot. The Gentleman had Rea<g ref="char:EOLhyphen"/>ſon; all Trades muſt live. Alas! our People here are grown too quick-ſighted, they will have <hi>Antimonial</hi> Vomits, and a Phyſician dares not omit them, tho' it is many a good Fee out of his Pocket. Join I ſay with theſe Wiſe Gentlemen; they wiſh well to the Fa<g ref="char:EOLhyphen"/>culty; procure an Order of the Colledge, and baniſh <hi>Antimony</hi> the City of <hi>Edinburgh,</hi> and the liberties thereof. 'Tis a Barbarous thing in theſe hard times to ſtrangle an In<g ref="char:EOLhyphen"/>fant Diſtemper; they ought no more to be murdered than young Cattle in Lent. Let it be as great a Crime to kill a Fever with an <hi>Antimonial</hi> Vomit, as to Fiſh in Spawning time. The <hi>Dutch Phyſicians</hi> are like the reſt of their Nation, Wiſe; they baniſh that Heatheniſh <hi>Jeſuitical Drug</hi> that would quick<g ref="char:EOLhyphen"/>ly reduce their Practice to a narrow Compaſs in the hopefuleſt Diſtemper of the Countrey. Theſe Rogues that Dream of nothing but <hi>Spe<g ref="char:EOLhyphen"/>cificks</hi> and <hi>Panaceas,</hi> I would have them all hang'd, not ſo much for the folly of the At<g ref="char:EOLhyphen"/>tempt, as the Malice of their Intention; Raſcals, to ſtarve ſo many worthy Gentle<g ref="char:EOLhyphen"/>men, that perhaps know no otherwiſe to get their Liveliehood. Will the Glaſiers e<g ref="char:EOLhyphen"/>ver puzle themſelves to make Glaſs Malle<g ref="char:EOLhyphen"/>able,
+<pb n="13" facs="tcp:175404:7"/>would the Knitters ever ſo much as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave dreamed of a Stocking-Loom, or the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oung Writers Petition'd to have Informati<g ref="char:EOLhyphen"/>ons Printed; All thoſe are Wiſe in their Ge<g ref="char:EOLhyphen"/>neration, and muſt the Phyſicians be the on<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Fools?</p>
+            <p>We all know here there is no danger in <hi>Antimonial</hi> Vomits, but this is <hi>inter nos;</hi> you muſt not tell your Patient ſo, let them believe as I ſaid before, that <hi>Antimonial</hi> Vo<g ref="char:EOLhyphen"/>mits are dangerous, deleterial, break the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibres of the Stomach, <hi>&amp;c.</hi> and that you cannot ſafely give them. So ſhall you be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iled a cautious ſafe Phyſician, one that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on't ſpoil the Curll of a Man's Hair to pull him out of a River. We have ſome dan<g ref="char:EOLhyphen"/>gerous Dogs here, that in a <hi>Quinſy,</hi> when a Man is ready to be chock'd, will blood him fourty Ounces at once; is not this extream<g ref="char:EOLhyphen"/>ly hazardous? They cut off Limbs, cut for the Stone; is this ſafe? I tell you the Repu<g ref="char:EOLhyphen"/>tation of a wary ſafe Phyſician is worth all the Parts of his Character beſides. Now I hope you will allow I have Reaſon for what I ſaid.</p>
+            <p>I have ſeen the <hi>Melius Inquirendum,</hi> and am too well acquainted with the Stile and Spelling, not to know that it is Dr. <hi>Eyzat</hi>'s; but here I muſt be with you again, how come you to write againſt one that ſays <hi>two
+<pb n="14" facs="tcp:175404:8"/>Drams</hi> of <hi>Emetick Wine</hi> is a ſufficient Doſe for a Man. Suffer not ſuch things to come abroad; they will imagine you are not got ſo far as the <hi>Circulation</hi> of the Blood in <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> write ſeriouſly againſt ſuch People. Fy upon't, I will never allow them to be a<g ref="char:EOLhyphen"/>bove the Diſpenſation of <hi>Ballads</hi> and <hi>Doggrel, &amp;c.</hi> I am</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>Yours, <hi>&amp;c.</hi>
+               </signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 23, 1699.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:175404:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
